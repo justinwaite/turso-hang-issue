@@ -1,0 +1,19 @@
+{
+  "name": "turso-hang-issue",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "dotenv -- node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libsql/client": "^0.10.0"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^7.4.2"
+  }
+}
